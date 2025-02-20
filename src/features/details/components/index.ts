@@ -1,0 +1,1 @@
+export { MoreDetailsButton } from "./details";
